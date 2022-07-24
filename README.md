@@ -5,8 +5,7 @@ To follow along, ensure to use the latest streamlit version by running `pip inst
 👉 Also, check out the official streamlit documentation: https://docs.streamlit.io/library/get-started/multipage-apps/create-a-multipage-app
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/YClmpnpszq8/0.jpg)](https://youtu.be/YClmpnpszq8)
 
 ## Requirements
 Install the dependecies with pip
