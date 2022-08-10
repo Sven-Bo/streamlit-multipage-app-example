@@ -20,6 +20,7 @@ if submit:
 
 st.sidebar.header(":mailbox: Get In Touch With Me!")
 
+
 contact_form = """
 <form action="https://formsubmit.co/curiousish1@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
